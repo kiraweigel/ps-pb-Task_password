@@ -1,5 +1,5 @@
 password = input('Введите пароль ')
-
+result = 0
 
 try: 
     result = (len(password)/len(password))
